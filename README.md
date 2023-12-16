@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm tahatan0</h1>
+<h1 align="left">Hi 👋, I'm Taha Tan</h1>
 
 - 🌱 I’m currently learning **Javascript,React, Blazor and ASP.NET Core MVC**
 - 📫 How to reach me **tahatan0@outlook.com**
